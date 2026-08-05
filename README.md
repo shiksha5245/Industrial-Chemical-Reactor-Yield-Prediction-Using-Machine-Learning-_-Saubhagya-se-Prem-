@@ -154,15 +154,15 @@ The project generates:
 
 ## 📂 Project Structure
 
-```
-ML-Hackathon/
+```text
+Reactor-Yield-Prediction/
 │
-├── ML_Hackathon.ipynb
-├── Presentation.pdf
-├── train_dataset.csv
-├── test_dataset.csv
-├── TeamName.csv
 ├── README.md
+├── Reactor_Yield_Presentation.pdf
+├── Saubhagya se Prem.ipynb
+├── Saubhagya se Prem.csv
+├── train_dataset.csv
+└── test_dataset.csv
 ```
 
 ---
