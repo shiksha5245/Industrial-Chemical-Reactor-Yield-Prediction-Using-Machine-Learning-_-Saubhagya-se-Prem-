@@ -109,7 +109,6 @@ Multiple regression algorithms were trained and evaluated.
 - Gradient Boosting Regressor
 - XGBoost Regressor
 - CatBoost Regressor
-- LightGBM Regressor
 
 Models were compared using:
 
@@ -178,7 +177,6 @@ Reactor-Yield-Prediction/
 - Scikit-learn
 - XGBoost
 - CatBoost
-- LightGBM
 - SHAP
 
 ---
